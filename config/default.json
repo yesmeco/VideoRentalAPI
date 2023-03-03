@@ -1,0 +1,6 @@
+{
+    "jwt":"",
+    "mongodbconnection":"mongodb://localhost:27018/mongo-exercises",
+    "exceptionlogFileName": "logfileExceptions.log",
+    "logFileName": "logs.log"
+}
